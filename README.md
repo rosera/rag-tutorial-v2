@@ -1,5 +1,6 @@
-# rag-tutorial-v2
+# RAG Tutorial V2
 
+Based on the video [Python RAG Tutorial (with Local LLMs): AI For Your PDFs](https://www.youtube.com/watch?v=2TJxpyO3ei4)
 
 ## PDF Data
 
